@@ -31,13 +31,13 @@
 
 <!-- Social Media Links -->
 <p align="center">
-  <a href="https://linkedin.com/in/sayuru-vihagana-670512201/" target="_blank">
+  <a href="https://www.linkedin.com/in/chandupa/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
   </a>
-  <a href="https://github.com/vihagana99" target="_blank">
+  <a href="https://github.com/chandupa1999" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub">
   </a>
-  <a href="mailto:your-sayuruvihagana2@gmail.com" target="_blank">
+  <a href="mailto:your-yashasvichandupa@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail" alt="Email">
   </a>
 </p>
