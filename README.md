@@ -28,6 +28,9 @@
 <div align= "center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandupa1999&layout=compact&theme=radical&hide_border=true&langs_count=10" align= "center" alt="chandupa1999's Top Languages" />
 </div>
+<br>
+<br>
+<br>
 
 <!-- Social Media Links -->
 <p align="center">
