@@ -5,7 +5,7 @@
   <strong>Hi, I'm Chandupa Perera 👨‍💻</strong>
 </h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vihagana99&label=Profile%20views&color=0e75b6&style=flat" alt="vihagana99" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chandupa1999&label=Profile%20views&color=0e75b6&style=flat" alt="vihagana99" /> </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=5000&color=0000FF&center=true&width=600&lines=Welcome+to+my+GitHub!;I+am+a+Developer+and+Tech+Enthusiast;Building+Win+Form+App+and+Mobile+Apps." />
